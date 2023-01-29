@@ -122,10 +122,12 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![OUTPUT](./output.png)
+![timetable2](https://user-images.githubusercontent.com/119393514/215305286-fbcf7ffb-39b3-4987-961a-d2780eed93bf.jpeg)
+
 
 # HTML Validator
-![html](./valid.png)
+![valid timetable](https://user-images.githubusercontent.com/119393514/215305340-c395a71d-d227-4116-b2e0-6ab8aba00d50.jpeg)
+
 
 # RESULT
 The program executed successfully.
